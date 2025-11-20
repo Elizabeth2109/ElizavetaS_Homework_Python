@@ -1,1 +1,1 @@
-# ElizavetaS_Homework_Pyton
+# ElizavetaS_Homework_Python
